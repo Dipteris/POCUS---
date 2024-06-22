@@ -34,26 +34,26 @@
    2. Bone
    3. Blood
    4. Air
-8. 請問下圖是心臟超音波的什麼view？<br>![](images/S4C.png)
-   1. PLAX
-   2. PSAX
-   3. A4C
-   4. S4C
+8. X 請問下圖是心臟超音波的什麼view？<br>![](images/S4C.png)
+   1. parasternal long axis view
+   2. parasternal short axis view
+   3. apical four-chamber view
+   4. subxyphoid four-chamber view
 9. 請問下圖是心臟超音波的什麼view？<br>![](images/PSAX.png)
-   1. PLAX
-   2. PSAX
-   3. A4C
-   4. S4C
+   1. parasternal long axis view
+   2. parasternal short axis view
+   3. apical four-chamber view
+   4. subxyphoid four-chamber view
 10. 請問下圖是心臟超音波的什麼view？<br>![](images/A4C.jpeg)
-    1. PLAX
-    2. PSAX
-    3. A4C
-    4. S4C
+    1. parasternal long axis view
+    2. parasternal short axis view
+    3. apical four-chamber view
+    4. subxyphoid four-chamber view
 11. 請問下圖是心臟超音波的什麼view？<br>![](images/PLAX.png)
-    1. PLAX
-    2. PSAX
-    3. A4C
-    4. S4C
+    1. parasternal long axis view
+    2. parasternal short axis view
+    3. apical four-chamber view
+    4. subxyphoid four-chamber view
 12. 心臟超音波得到的影像如下圖，臨床上應懷疑什麼？<br>![](images/d_shape_LV.png)
     1. 主動脈剝離
     2. 肺栓塞
