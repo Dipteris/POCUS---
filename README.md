@@ -4,19 +4,19 @@
    ![](images/M_mode.png)
    1. A mode
    2. B mode
-   3. C mode
+   3. Color doppler mode
    4. M Mode
 2. 請問這張是超音波的什麼mode？
    ![](images/B_mode.jpg)
    1. A mode
    2. B mode
-   3. C mode
+   3. Color doppler mode
    4. M Mode
 3. 請問這張是超音波的什麼mode？
    ![](images/doppler_mode.bmp)
    1. A mode
    2. B mode
-   3. C mode
+   3. Color doppler mode
    4. M Mode
 4. 請問下列哪一種探頭最適合用來觀察表淺構造？
    1. Linear probe<br>![](images/Linear.png)
