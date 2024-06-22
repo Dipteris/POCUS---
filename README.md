@@ -24,7 +24,7 @@
    2. 腸氣
    3. 脊椎
    4. 結石
-6. 下列何者後方不易出現音波增強(acoustic enhancement)
+6. X 下列何者後方不易出現音波增強(acoustic enhancement)
    1. 膽囊
    2. 囊腫
    3. 脂肪瘤
